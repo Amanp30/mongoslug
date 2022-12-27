@@ -1,0 +1,19 @@
+{
+  "name": "mongoslug",
+  "version": "1.0.0",
+  "description": "Save unique slug in mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoslug",
+    "unique-slug",
+    "mongo-slug"
+  ],
+  "author": "Aman Pareek",
+  "license": "ISC",
+  "devDependencies": {
+    "slugify": "^1.6.5"
+  }
+}
